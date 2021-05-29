@@ -26,10 +26,7 @@
     background-color: rgb(110, 224, 224);
    
   }
-    a:hover {
-      background-color: #ddd;
-       }
-
+   
   
 
        .images{
@@ -53,10 +50,3 @@
     button{
         color:black;
     }
-h1{
-  color:black;
-  text-decoration: underline;
-}
-button{
-  color:black;
-}
